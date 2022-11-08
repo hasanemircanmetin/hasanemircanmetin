@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Hasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasanemircanmetin&count_private=false)
+![Hasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasanemircanmetin&count_private=true)
 
 
 <!--
