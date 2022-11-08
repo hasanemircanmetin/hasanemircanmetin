@@ -9,7 +9,7 @@
 <hr>
 <h1 align='center'>Programming Languages</h1>
 <p align="center"> 
-<a href="https://github.com/hasanemircanmetin"><img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanemircanmetin&exclude_repo=github-readme-stats,anuraghazra.github.io&theme=custom&bg_color=111111&text_color=ffffff&icon_color=7d8cbe&title_color=7d8cbe&border_color=7d8cbe"></a>  
+<a href="https://github.com/hasanemircanmetin"><img align=center src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanemircanmetin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)"></a>  
 </p>
 <hr>
 
