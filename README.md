@@ -4,8 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanemircanmetin&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-https://github-readme-streak-stats.herokuapp.com/?user=YasarGencer&background=111111&text_color=ffffff&fire=7d8cbe&sideNums=7d8cbe&border=7d8cbe&dates=ffffff&currStreakNum=7d8cbe&ring=7d8cbe&stroke=7d8cbe&currStreakLabel=7d8cbe&sideLabels=7d8cbe
-
+<a href="https://github.com/hasanemircanmetin"><img align=center src="https://github-readme-streak-stats.herokuapp.com/?user=hasanemircanmetin&background=111111&text_color=ffffff&fire=7d8cbe&sideNums=7d8cbe&border=7d8cbe&dates=ffffff&currStreakNum=7d8cbe&ring=7d8cbe&stroke=7d8cbe&currStreakLabel=7d8cbe&sideLabels=7d8cbe" width=500></a>
 
 <!--
 **hasanemircanmetin/hasanemircanmetin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
