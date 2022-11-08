@@ -1,6 +1,12 @@
 <h1 align="center">About Me</h1>
 <p>
-Harika
+I am enthusiastic about games since I was a child. One day a question popped to my head. I was playing these for so long but I didn't have any idea how they were being made. Since that day, I dived too deep into games that I haven't been able to get out (not that I want to get out :) ) and my passion about games have been growing since. <br><br>
+
+
+Been playing games since I was 4.<br>
+Developed my first game when I was 12.<br>
+Published my first game when I was 18.<br>
+
 </p>
 
 <h1 align="center">My Stats</h1>
