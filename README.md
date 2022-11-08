@@ -3,7 +3,7 @@
 <a href="https://github.com/hasanemircanmetin">
 <a href="https://github.com/hasanemircanmetin?tab=repositories">
 <a href="https://github.com/YasarGencer"><img align=center src="https://github-readme-stats.vercel.app/api?username=YasarGencer&show_icons=true&theme=maroongold" width=500></a> <br><br>
-<a href="https://github.com/hasanemircanmetin"><img align=center src="https://github-readme-streak-stats.herokuapp.com/?user=hasanemircanmetin&theme=cobalt2" width=500></a>
+<a href="https://github.com/hasanemircanmetin"><img align=center src="https://github-readme-streak-stats.herokuapp.com/?user=hasanemircanmetin&theme=maroongold" width=500></a>
 </p>
   
 <hr>
