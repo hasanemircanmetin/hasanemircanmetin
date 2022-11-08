@@ -2,7 +2,7 @@
 <p align="center">
 <a href="https://github.com/hasanemircanmetin">
 <a href="https://github.com/hasanemircanmetin?tab=repositories">
-<a href="https://github.com/YasarGencer"><img align=center src="https://github-readme-stats.vercel.app/api?username=YasarGencer&show_icons=true&theme=tokyonight" width=500></a> <br><br>
+<a href="https://github.com/hasanemircanmetin"><img align=center src="https://github-readme-stats.vercel.app/api?username=hasanemircanmetin&show_icons=true&theme=tokyonight" width=500></a> <br><br>
 <a href="https://github.com/hasanemircanmetin"><img align=center src="https://github-readme-streak-stats.herokuapp.com/?user=hasanemircanmetin&theme=tokyonight" width=500></a>
 </p>
   
