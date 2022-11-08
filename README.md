@@ -1,22 +1,9 @@
-### Hi there 👋
-
-[![Hasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasanemircanmetin&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanemircanmetin&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
+<h1 align="center">My Stats</h1>
+<p align="center">
+<a href="https://github.com/hasanemircanmetin">
+<a href="https://github.com/hasanemircanmetin?tab=repositories">
+<a href="https://github.com/hasanemircanmetin?tab=followers"><img src="https://img.shields.io/github/followers/hasanemircanmetin?style=social"></a> <br>
+<a href="https://github.com/hasanemircanmetin"><img align=center src="https://github-readme-stats.vercel.app/api?username=hasanemircanmetin&show_icons=true&theme=custom&bg_color=111111&text_color=ffffff&icon_color=7d8cbe&title_color=7d8cbe&border_color=7d8cbe" width=500></a> <br>
 <a href="https://github.com/hasanemircanmetin"><img align=center src="https://github-readme-streak-stats.herokuapp.com/?user=hasanemircanmetin&background=111111&text_color=ffffff&fire=7d8cbe&sideNums=7d8cbe&border=7d8cbe&dates=ffffff&currStreakNum=7d8cbe&ring=7d8cbe&stroke=7d8cbe&currStreakLabel=7d8cbe&sideLabels=7d8cbe" width=500></a>
+</p>
 
-<!--
-**hasanemircanmetin/hasanemircanmetin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
